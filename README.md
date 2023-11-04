@@ -1,4 +1,4 @@
-![Banner](https://github.com/Raja-tabish/Raja-tabish/commit/90047d48f65003ec9b05f75e9afcd0960e2d298e)
+![Banner](https://github.com/Raja-tabish/Raja-tabish/blob/main/20231105_0251121%20(1).gif)
 <h1 align="center">Hi 👋, I'm Muhammad Tabish</h1>
 <h3 align="center">🚀 Aspiring MERN Stack Developer | 📚 Continuous Learner | 💻 Passionate About Creating Web Solutions</h3>
 
